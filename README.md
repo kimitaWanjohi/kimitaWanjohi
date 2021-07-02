@@ -2,7 +2,7 @@
 
 <br />
 <br />
-**"We are at war. The Moon is a harsh mistress", Robert Heinlein words. <br>I'm a software engineer, currently working as a freelancer in Kenya.<br/> **
+* Now is better than later but later is often better than *right* now <br>I'm a software engineer, currently working as a freelancer in Kenya.<br/> **
 
 
 - 🔭 I’m currently working on my software engineering bachelors degree.
