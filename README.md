@@ -16,7 +16,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 <br />
-  * Now is better than later but later is often better than *right* now <br>I'm a software engineer, currently working as a freelancer in Kenya.<br/> **
+  Now is better than later but later is often better than *right* now <br>I'm a software engineer, currently working as a freelancer in Kenya.
+<br/> 
 - 🔭 I’m currently working on my software engineering bachelors degree.
 - 🌱 In love with python and data science but currently working on web development.
 - 👨🏻‍💻 I’m always ready to work and learn from others developers.
