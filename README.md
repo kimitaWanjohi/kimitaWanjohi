@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Kimita Wanjohi</h1>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80% />
 <br />
 <br />
 * Now is better than later but later is often better than *right* now <br>I'm a software engineer, currently working as a freelancer in Kenya.<br/> **
