@@ -17,7 +17,9 @@
 
 <br />
   Now is better than later but later is often better than *right* now <br>I'm a software engineer, currently working as a freelancer in Kenya.
-<br/> 
+<br /> 
+
+
 - 🔭 I’m currently working on my software engineering bachelors degree.
 - 🌱 In love with python and data science but currently working on web development.
 - 👨🏻‍💻 I’m always ready to work and learn from others developers.
