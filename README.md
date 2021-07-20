@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World</h1>
-
+<img src="https://i.makeagif.com/media/10-14-2017/2QKyUm.gif" width="80%"/>
 <br />
 <br />
 * Now is better than later but later is often better than *right* now <br>I'm a software engineer, currently working as a freelancer in Kenya.<br/> **
