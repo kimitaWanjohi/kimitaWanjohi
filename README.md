@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Kimita Wanjohi</h1>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100% />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="60%" />
 <br />
 <br />
                                                                             <br/>
