@@ -25,4 +25,4 @@
 - 👨🏻‍💻 I’m always ready to work and learn from others developers.
 - 📫 How to reach me: [kimitawanjohi7923@gmail.com](mailto:kimitawanjohi7923@gmail.com);
                                                                                                                                                      
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kimitawanjohi&show_icons=true&theme=tokyonight" alt="Kimita" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kimitawanjohi&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&include_all_commits=true" alt="Kimita" /> </p>
