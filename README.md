@@ -1,5 +1,4 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Kimita Wanjohi</h1>
-<div class="tenor-gif-embed" data-postid="17999266" data-share-method="host" data-aspect-ratio="1.92771" data-width="100%"><a href="https://tenor.com/view/demon-slayer-gif-17999266">Demon Slayer GIF</a>from <a href="https://tenor.com/search/demon+slayer-gifs">Demon Slayer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <br />
 <br />
                                                                      
