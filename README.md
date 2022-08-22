@@ -29,10 +29,4 @@
 
 <a href="https://www.linkedin.com/in/kimitawanjohi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kimitawanjohi&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&include_all_commits=true" alt="Kimita" /> </p>
-
- 
-![Snake animation](https://github.com/kimitawanjohi/kimitawanjohi/blob/output/github-contribution-grid-snake.svg)
- 
-                                                                                                                                               
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kimitawanjohi&show_icons=true&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&include_all_commits=true" alt="Kimita" /> </p>
+![Snake animation](https://github.com/kimitawanjohi/kimitawanjohi/blob/output/github-contribution-grid-snake.svg)                                                                                                                  
