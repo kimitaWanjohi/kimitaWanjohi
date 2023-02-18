@@ -21,3 +21,5 @@ I am a highly motivated self-starter and team player. Also, I'm a quick learner 
 <a href="https://www.linkedin.com/in/kimitawanjohi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/kimitawanjohi/kimitawanjohi/blob/output/github-contribution-grid-snake.svg)                                    
+
+[![](https://visitcount.itsvg.in/api?id=kimitawanjohi&label=Profile%20Views&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
