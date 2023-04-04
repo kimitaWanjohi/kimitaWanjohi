@@ -6,8 +6,7 @@
 <div align="center">
 <h2> About </h2>
   <p align="start">
-  I am a Full-stack software engineer with a keen interest in designing elegant solutions to technical problems. I am skilled in problem-solving and can leverage full-stack knowledge and experience to build and scale user-centered software designs.
-I am a highly motivated self-starter and team player. Also, I'm a quick learner and have a keen eye for detail.
+  I am a Full-stack software engineer Experienced software engineer with skills in Python, Django, React, GraphQL, NextJS, and TypeScript. Passionate about growth and eager to tackle new challenges. Excited to collaborate on innovative projects that align with my interests. Let's connect and build something amazing!
   </p>
   <p> Portfolio link: https://kimitawanjohi.me
    <br />
@@ -26,7 +25,6 @@ I am a highly motivated self-starter and team player. Also, I'm a quick learner 
    <tr><img src="https://github-readme-streak-stats.herokuapp.com/?user=kimitawanjohi&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></tr>
 <td>
 <br/>
-<a href="https://www.linkedin.com/in/kimitawanjohi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/kimitawanjohi/kimitawanjohi/blob/output/github-contribution-grid-snake.svg)                                    
 
