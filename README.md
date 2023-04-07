@@ -8,7 +8,7 @@
   <p align="start">
   I am a Full-stack software engineer Experienced software engineer with skills in Python, Django, React, GraphQL, NextJS, and TypeScript. Passionate about growth and eager to tackle new challenges. Excited to collaborate on innovative projects that align with my interests. Let's connect and build something amazing!
   </p>
-  <p> Portfolio link: https://kimitawanjohi.me
+  <p> Portfolio link: https://kimitawanjohi.live
    <br />
   <br/> 
   
