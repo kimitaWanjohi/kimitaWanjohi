@@ -11,4 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimitawanjohi&show_icons=true&locale=en" alt="kimitawanjohi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimitawanjohi&" alt="kimitawanjohi" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kimitawanjohi)](https://git.io/streak-stats)
